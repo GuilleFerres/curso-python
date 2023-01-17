@@ -1,0 +1,5 @@
+print("Hola Mundo")
+print(100+50)
+print("Me encanta estudiar Python")
+print("Estudiar con 'Python Total' es super divertido")
+print(555)
